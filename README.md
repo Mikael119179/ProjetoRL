@@ -30,4 +30,31 @@ _________________________________________________
 
 - O Gerenciador de Tarefas é uma aplicação Python que ajuda os usuários a organizar e acompanhar suas tarefas diárias. A aplicação permite adicionar, editar, remover, marcar como concluídas e listar tarefas mediante uma interface de linha de comando simples e intuitiva.
 _______________________________________________________________
+#### 6.Ferramentas Utilizadas
+
+- PyCharm
+- Python
+- **heapq:** Biblioteca para manipulação da fila de prioridade
+- TKinter
+- GitHub
+- Trello, Notion
+ ________________________________
+#### 7.Desenvolvimento do Projeto
+
+- **Semana 1:**
+    - Planejamento dos requisitos
+    - Polir os requisitos mais importantes
+    - Implementação inicial do código
+- **Semana 2:**
+    - Planejamento da introdução de funções complexas
+    - Procura de bibliotecas que ajudam na implementação
+    - Aplicar em código
+- **Semana 3:**
+    - Corrigir bugs
+    - Aprender TKinter e suas funcionalidades
+    - Aplicar em código
+- **Semana 4:**
+    - Polir o código de forma geral
+    - Implementar boa práticas
+    - fazer teste de funcionalidade.
 
